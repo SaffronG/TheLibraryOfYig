@@ -4,7 +4,7 @@ A website for my Call of Cthulhu oneshot, made to be played and hosted so that t
 <hr>
 
 - [X] Setup landing page
-- [ ] Add "file viewer"
-- [ ] Put files up
+- [X] Add "file viewer"
+- [X] Put files up
 - [ ] Add password locks
 - [ ] Add puzzle input screen
